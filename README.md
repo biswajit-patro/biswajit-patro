@@ -5,18 +5,18 @@ My interest to solve real-time business challenges through historical data , inc
 I am happy to discuss new things related to this field and open for collaboration.
 Feel free to ask or suggest me regarding the code in the comments section.
 
-##Connect me on :                                                                                 
+## Connect me on :                                                                                 
 E-mail ID : biswatheachiever96@gmail.com                                                                           
 LinkedIn : https://www.linkedin.com/in/ch-biswajit-patro-30b320211/
 
-##Ongoing Activities :    
+## Ongoing Activities :    
 
 •  Project : Feathered Guardian: A Smart Poultry Litter Tracking and Alert System (Data Science Intern At Innodatatics - USA)                
 •  Algorithmic Trading                   
 •  Artificial Intelligence : Mini Project ( Self )                    
 •  BigData : Hadoop , Apache Spark                      
 
-##Competency In :        
+## Competency In :        
 
 •	 Data Analytics : Reports , Visualizations and Actionable Insights Generation                      
 •	 Data Science, Machine Learning, Deep Learning                    
