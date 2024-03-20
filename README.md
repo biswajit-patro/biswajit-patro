@@ -11,10 +11,8 @@ LinkedIn : https://www.linkedin.com/in/ch-biswajit-patro-30b320211/
 
 ## Ongoing Activities :    
 
-•  Project : Feathered Guardian: A Smart Poultry Litter Tracking and Alert System (Data Science Intern At Innodatatics - USA)                
-•  Algorithmic Trading                   
-•  Artificial Intelligence : Mini Project ( Self )                    
-•  BigData : Hadoop , Apache Spark                      
+•  Project : Feathered Guardian: A Smart Poultry Litter Tracking and Alert System (Data Science Intern At Innodatatics - USA)                                   
+•  Artificial Intelligence : Mini Project ( Self )                                          
 
 ## Competency In :        
 
