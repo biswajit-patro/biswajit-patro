@@ -4,6 +4,8 @@ My interest to solve real-time business challenges through historical data , inc
 
 I am happy to discuss new things related to this field and open for collaboration.
 Feel free to ask or suggest me regarding the code in the comments section.
+## Objective : 
+Dynamic and results-driven Data Science professional with a passion for leveraging advanced analytics to drive business insights and optimize processes. Seeking a challenging role where I can apply my expertise in pricing analysis, data extraction, and statistical modeling to contribute to organizational growth.
 
 ## Connect me on :                                                                                 
 E-mail ID : biswatheachiever96@gmail.com                                                                           
