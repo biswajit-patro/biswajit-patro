@@ -9,7 +9,7 @@ Dynamic and results-driven Data Science professional with a passion for leveragi
 
 ## Connect me on :                                                                                 
 E-mail ID : biswatheachiever96@gmail.com                                                                           
-LinkedIn : https://www.linkedin.com/in/chbiswajit/
+LinkedIn : [LinkedIn](https://www.linkedin.com/in/chbiswajit/)
 
 ## Ongoing Activities :    
 
