@@ -8,7 +8,7 @@ Feel free to ask or suggest me regarding the code in the comments section.
 Dynamic and results-driven Data Science professional with a passion for leveraging advanced analytics to drive business insights and optimize processes. Seeking a challenging role where I can apply my expertise in pricing analysis, data extraction, and statistical modeling to contribute to organizational growth.
 
 ## Connect me on :                                                                                 
-E-mail ID : biswatheachiever96@gmail.com                                                                           
+E-mail ID : biswajitpatro22@gmail.com                                                                           
 LinkedIn : [LinkedIn](https://www.linkedin.com/in/chbiswajit/)
 
 ## Ongoing Activities :    
