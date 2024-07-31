@@ -1,6 +1,7 @@
 ### Hii !👋 I'm Ch Biswajit Patro 
 ## DATA IS EVERYTHING!!!
-## I am currently serving as a BI Manager (Senior Data Scientist and Data Engineer) at AFPL, where I orchestrate data-driven strategies and engineer sophisticated solutions to drive business intelligence and analytical excellence.
+## I am currently serving as a BI Manager, specializing in a hybrid role that integrates the expertise of a Senior Data Scientist and Data Engineer at AFPL. In this capacity, I orchestrate data-driven strategies and engineer sophisticated solutions to drive business intelligence and analytical excellence.
+
 My interest to solve real-time business challenges through historical data , inclined me to this data domain from finance domain. By using data analytics, data science, and AI tools i love to craft and resolve new business problems independently. So,I bring a unique blend of financial expertise and business acumen to the table.
 
 I am happy to discuss new things related to this field and open for collaboration.
