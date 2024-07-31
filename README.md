@@ -6,6 +6,7 @@ My interest to solve real-time business challenges through historical data , inc
 
 I am happy to discuss new things related to this field and open for collaboration.
 Feel free to ask or suggest me regarding the code in the comments section.
+
 ## Objective : 
 Dynamic and results-driven Data Science professional with a passion for leveraging advanced analytics to drive business insights and optimize processes. Seeking a challenging role where I can apply my expertise in pricing analysis, data extraction, and statistical modeling to contribute to organizational growth.
 
@@ -15,8 +16,8 @@ LinkedIn : [LinkedIn](https://www.linkedin.com/in/chbiswajit/)
 
 ## Ongoing Activities :    
 
-•  Project : Feathered Guardian: A Smart Poultry Litter Tracking and Alert System (Data Science Intern At Innodatatics - USA)                                   
-•  Artificial Intelligence : Mini Project ( Self )                                          
+•  Project : RAG Project ( self )                                   
+•  Artificial Intelligence : Project ( Self )                                          
 
 ## Competency In :        
 
