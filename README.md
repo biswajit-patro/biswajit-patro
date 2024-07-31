@@ -21,9 +21,9 @@ LinkedIn : [LinkedIn](https://www.linkedin.com/in/chbiswajit/)
 
 ## Competency In :        
 
-•	 Data Analytics : Reports , Visualizations and Actionable Insights Generation                      
-•	 Data Science, Machine Learning, Deep Learning                    
-•	 Artificial Intelligence            
+•	 Data Analytics : Reports , Visualizations and Actionable Insights Generation, Data Structures                      
+•	 Data Science, Machine Learning, Deep Learning, LLMs, AI, RAG, Llama Index, Langchain                   
+•	 Gen AI          
 
 
 
