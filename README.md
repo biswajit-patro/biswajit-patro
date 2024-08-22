@@ -16,7 +16,7 @@ LinkedIn : [LinkedIn](https://www.linkedin.com/in/chbiswajit/)
 
 ## Ongoing Activities :    
 
-•  Project : RAG Project ( self )                                   
+•  Project : Fine Tuning LLMs                                   
 •  Artificial Intelligence : Project ( Self )                                          
 
 ## Competency In :        
